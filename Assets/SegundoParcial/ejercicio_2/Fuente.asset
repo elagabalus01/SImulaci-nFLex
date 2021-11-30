@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4a22bdd81895a3a448395e2e88a7b595, type: 3}
+  m_Name: Fuente
+  m_EditorClassIdentifier: 
+  m_particles: []
+  m_maxParticles: 1000
+  m_springIndices: 
+  m_springCoefficients: []
+  m_springRestLengths: []
+  m_shapeIndices: 
+  m_shapeOffsets: 
+  m_shapeCoefficients: []
+  m_shapeCenters: []
+  m_triangleIndices: 
+  m_inflatable: 0
+  m_inflatableVolume: 0
+  m_inflatablePressure: 0
+  m_inflatableStiffness: 0
+  m_fixedParticles: 
+  m_rebuildAsset: 0
+  m_surfaceMesh: {fileID: 2441018159018146405, guid: 67ec2844f2d023b4a87e8783976488c4, type: 3}
+  m_meshLocalScale: {x: 1, y: 1, z: 1}
+  m_meshTesselation: 0
+  m_nozzlePositions:
+  - {x: -0.033780813, y: -0.025455372, z: -0.0000000011126897}
+  - {x: -0.06756163, y: 0.025455372, z: 0.0000000011126897}
+  - {x: -0.06756163, y: -0.025455372, z: -0.0000000011126897}
+  - {x: -0.033780813, y: 0.025455372, z: 0.0000000011126897}
+  - {x: 0, y: -0.025455372, z: -0.0000000011126897}
+  - {x: 0, y: 0.025455372, z: 0.0000000011126897}
+  - {x: 0.033780813, y: -0.025455372, z: -0.0000000011126897}
+  - {x: 0.033780813, y: 0.025455372, z: 0.0000000011126897}
+  - {x: 0.06756163, y: -0.025455372, z: -0.0000000011126897}
+  - {x: 0.06756163, y: 0.025455372, z: 0.0000000011126897}
+  m_nozzleDirections:
+  - {x: 0, y: -0.000000043711392, z: 1}
+  - {x: 0, y: -0.000000043711392, z: 1}
+  - {x: 0, y: -0.000000043711392, z: 1}
+  - {x: 0, y: -0.000000043711392, z: 1}
+  - {x: 0, y: -0.000000043711392, z: 1}
+  - {x: 0, y: -0.000000043711392, z: 1}
+  - {x: 0, y: -0.000000043711392, z: 1}
+  - {x: 0, y: -0.000000043711392, z: 1}
+  - {x: 0, y: -0.000000043711392, z: 1}
+  - {x: 0, y: -0.000000043711392, z: 1}

@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/SegundoParcial/ejercicio_2/Ejercicio_2.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
